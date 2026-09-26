@@ -1,0 +1,5 @@
+yt-dlp
+flask
+flask-cors
+gunicorn
+requests
